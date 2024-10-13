@@ -119,7 +119,7 @@ namespace Calculator
 
         private void guna2CircleButton_calculate_Click(object sender, EventArgs e)
         {
-
+                
         }
     }
 }
